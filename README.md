@@ -5,6 +5,8 @@ The PET and CT segmentation models can be found in [Organ-Segmentation](https://
 The inference example is presented in "inference-example.py" file. 
 ## Installation
 `pip install git+https://github.com/YazdanSalimi/PETCT-RMA-Detection.git`
+please save the downloaded models in a clean folder and give the address to the inference from image function. 
+
 
 
 
