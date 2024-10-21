@@ -15,6 +15,7 @@ To install the necessary dependencies, run the following command:
 pip install git+https://github.com/YazdanSalimi/PETCT-RMA-Detection.git
 ```
 Once installed, save the downloaded models in a clean folder and provide the folder path to the inference function.
+Please cite [this paper](https://doi.org/10.1088/1361-6560/ad8857) and check it for more information.
 
 We welcome any feedback, suggestions, or contributions to improve this project!
 
